@@ -1,3 +1,0 @@
-/home/srianumakonda/Desktop/neural-network-cpp/build/CMakeFiles/main.dir
-/home/srianumakonda/Desktop/neural-network-cpp/build/CMakeFiles/edit_cache.dir
-/home/srianumakonda/Desktop/neural-network-cpp/build/CMakeFiles/rebuild_cache.dir
